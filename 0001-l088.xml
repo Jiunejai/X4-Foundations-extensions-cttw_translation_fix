@@ -2754,7 +2754,7 @@
  <t id="85">擊敗</t>
  <t id="86">接觸</t>
  <t id="87">使用宇航服</t>
- <t id="1001">在飛行 $1 {1001,108}後離開高速航線</t>
+ <t id="1001">在飛行 $1 km後離開高速航線</t>
  <t id="1002">立即離開高速航線</t>
  <t id="1003">$WARE$ 給 $OBJECT$</t>
  <t id="1004">$WARE$ 從 $OBJECT$</t>
@@ -21311,7 +21311,7 @@
  <t id="11207">(變化)(ship scanned by police - compliant)行，你掃瞄吧。</t>
  <t id="11208">(變化)(ship scanned by police - nothing found)Split什麼都沒有隱藏。</t>
  <t id="11209">(變化)(ship scanned by police - something found)那是我的東西。你別管Split的事情。</t>
- <t id="11210">(變化)(ship scanned - illegal)你給我停下！那是違禁品！</t>
+ <t id="11210">(變化)(ship scanned - illegal)你給我停下！你的行為並沒有合法授權！</t>
  <t id="11211">(report to superior)我的船艦正在被掃瞄。</t>
  <t id="11300">(* 海盜掃瞄 *)</t>
  <t id="11301">(變化)(ship scan warning)讓Split看看你有什麼好東西。</t>
