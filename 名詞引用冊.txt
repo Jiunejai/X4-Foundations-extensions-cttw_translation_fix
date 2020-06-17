@@ -1,0 +1,63 @@
+人名：
+
+Cline Rodrigo	(克萊恩．羅德裡戈){30202,104}
+Cynth Wilems	(辛斯．威勒姆斯){30202,106}
+Dal Busta		(達爾．布斯塔){30202,2}
+Kat Lanton		(凱特．蘭頓){30202,105}
+Lowgon Jams		(勞貢．詹姆斯){30202,103}
+Reen Omara		(瑞恩．奧馬拉){30202,101}
+
+Drasios Fugenis Tesmandis V
+	(德拉西奧斯 福吉尼斯．特思曼迪斯五世){30202,107}
+Mustris Gisnos Yolious II
+	(穆斯特裡斯．吉斯莫斯．尤里奧斯二世){30202,102}
+
+種族：
+(Argon){20202,101}
+(Boron){20202,201}
+(Split){20202,301}
+(Paranid){20202,401}
+(Teladi){20202,501}
+(Xenon){20202,601}
+(地球人){20202,701}		Terran
+(無人機){20202,801}		Drone
+(Kha'ak){20202,901}		
+
+勢力：
+(Argon聯邦){20203,201}			Argon Federation
+(安提戈涅共和國){20203,301}		Antigone Republic
+(Paranid神界){20203,401}		Godrealm of the Paranid
+(教皇聖教團){20203,501}			Holy Order of the Pontifex
+(Teladi公司){20203,601}			Teladi Company
+(財政部){20203,701}				Ministry of Finance
+(約言聯盟){20203,801}			Alliance of the Word
+(盼望自由聯盟){20203,901}		Hatikvah Free League
+(鱗皮公約){20203,1001}			Scale Plate Pact
+(Xenon){20203,1101}
+(地球人託付代議會){20203,1201}	Terran Mandate
+(Boron女王國){20203,1301}		Queendom of Boron
+(扎亞斯氏族){20203,1401}		Family Zyarth
+(Kha'ak){20203,1501}
+(自由部族){20203,1601}			Free Families
+(隕落部族){20203,1701}			Fallen Families
+(抑制者仲裁庭){20203,1801}		Court of Curbs
+(抑制者集團){20203,1901}		Cabal of Curbs
+(扎亞斯宗族){20203,2001}		Zyarth Patriarchy
+(紐特宗族){20203,2101}			Nhuut Patriarchy
+(萊克宗族){20203,2201}			Rhak Patriarchy
+(三聖界域){20203,2301}			Realm of the Trinity
+(公爵的海盜){20203,2401}		Duke's Buccaneers
+(公爵的憤怒){20203,2501}		Duke's Tempest
+(聖教團信徒){20203,2601}		Holy Order Faithful
+
+組織與事件：
+The Community of Planets		「(行星共同體){20299,1071}」
+
+物品：
+Resource Probe		(資源探測器){1001,1329}
+Satellite			(人造衛星){1001,1327
+Nav Beacon			(導航信標){1001,1328}
+Laser Tower			(雷射塔){1001,1333}
+Cluster Mine		(集束空雷){20201,21001}
+Tracker Mine		(追蹤空雷){20201,20101}
+Friend/Foe Mine		(敵友識別空雷){20201,20901}
