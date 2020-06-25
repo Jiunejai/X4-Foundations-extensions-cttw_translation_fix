@@ -1691,8 +1691,8 @@
  <t id="8305">Profits from sales</t>
  <t id="8306">Select Ware</t>
  <t id="8307">Select Formation</t>
- <t id="8308">Sell offer</t>
- <t id="8309">Buy offer</t>
+ <!-- <t id="8308">Sell offer</t> -->
+ <!-- <t id="8309">Buy offer</t> -->
  <t id="8310">No wares</t>
  <t id="8311">No known offers</t>
  <t id="8312">Ship storage details</t>
@@ -3322,7 +3322,7 @@
  <t id="4">Comm</t>
  <t id="5">Claim</t>
  <t id="6">Board</t>
- <t id="7">Detach Bomb</t>
+ <!-- <t id="7">Detach Bomb</t> -->
  <t id="8">Dock</t>
  <t id="9">Drone hack</t>
  <t id="10">Drone scan</t>
@@ -3358,8 +3358,8 @@
  <t id="40">Deactivate Nav Beacon</t>
  <t id="41">Activate Resource Probe</t>
  <t id="42">Deactivate Resource Probe</t>
- <t id="43">Trigger Bomb</t>
- <t id="44">Trigger All Bombs</t>
+ <!-- <t id="43">Trigger Bomb</t> -->
+ <!-- <t id="44">Trigger All Bombs</t> -->
  <t id="45">Use Venture Console</t>
  <t id="46">Use Crafting Bench</t>
  <t id="47">Activate Laser Tower</t>
@@ -14960,9 +14960,9 @@
  <t id="3007">This also works on targets within range. For now, return to the normal cockpit view to move on.</t>
  <t id="3008">You can even tell a camera drone to stay in a fixed location. Try this now.</t>
  <t id="3009">The controls here behave a little differently. Play around with them now. Return to cockpit view to move on.</t>
- <t id="3010">If you'd like to see what's in front of you with fewer obstructions you can turn off the HUD. You can even make the cockpit practically invisible to you. Is there anything camera drones can't do? Try both now.(emphasis on "can't")</t>
- <t id="3011">If you'd like to see what's in front of you with fewer obstructions, you can even make the cockpit practically invisible to you. Is there anything camera drones can't do? Try it now.(emphasis on "can't")</t>
- <t id="3012">You can look at your ship from the outside, with the magic of camera drones. Try it.</t>
+ <!-- <t id="3010">If you'd like to see what's in front of you with fewer obstructions you can turn off the HUD. You can even make the cockpit practically invisible to you. Is there anything camera drones can't do? Try both now.(emphasis on "can't")</t> -->
+ <!-- <t id="3011">If you'd like to see what's in front of you with fewer obstructions, you can even make the cockpit practically invisible to you. Is there anything camera drones can't do? Try it now.(emphasis on "can't")</t> -->
+ <!-- <t id="3012">You can look at your ship from the outside, with the magic of camera drones. Try it.</t> -->
  <t id="4000">(Obstacle course)</t>
  <t id="4001">Please fly out of the docking area now.</t>
  <t id="4002">So, let's practice what you've learned so far.</t>
@@ -14974,7 +14974,7 @@
  <t id="4008">Boosting drains your shields, so use it wisely.</t>
  <t id="4009">You may also notice that it has set your speed to maximum. This is normal and will only persist until you change speed again. Some pilots even find it a convenient way to set their speed to maximum.</t>
  <t id="4010">Not bad!</t>
- <t id="5000">(Travel mode)</t>
+ <!-- <t id="5000">(Travel mode)</t> -->
  <t id="5001">This next thing is something you are going to be using a lot.</t>
  <t id="5002">I've marked a remote location for you to fly to. Don't worry; I don't expect you to crawl there at your base speed.</t>
  <t id="5003">First, please align your ship so that it points roughly towards the target.</t>
@@ -15001,13 +15001,13 @@
  <t id="5024">You've probably noticed other modes in the list when you activated this one.</t>
  <t id="5025">Each mode has its special use, and only one mode can be active at a time.</t>
  <t id="5026">Whenever you're ready, quickly drop out of travel mode.</t>
- <t id="6000">(Autopilot)</t>
+ <!-- <t id="6000">(Autopilot)</t> -->
  <t id="6001">Great. The next part will take place some distance from here, so let's take a break and let the autopilot do the hard work for now.</t>
- <t id="6002">The autopilot automatically navigates to the current objective. It engages travel mode when appropriate, and makes use of gates, accelerators and highways.</t>
- <t id="6003">It even avoids obstacles in the way. Well, mostly, which is why you still need to be at the controls.</t>
- <t id="6004">If you're getting bored, you can disable the autopilot at any time and fly the rest of the way yourself.</t>
- <t id="6005">Good, you've arrived.</t>
- <t id="6006">You may notice that it sometimes turns travel mode off when everything seems wide open to you. The safeties are on a bit of a hair trigger, probably to keep insurance rates from skyrocketing...</t>
+ <!-- <t id="6002">The autopilot automatically navigates to the current objective. It engages travel mode when appropriate, and makes use of gates, accelerators and highways.</t> -->
+ <!-- <t id="6003">It even avoids obstacles in the way. Well, mostly, which is why you still need to be at the controls.</t> -->
+ <!-- <t id="6004">If you're getting bored, you can disable the autopilot at any time and fly the rest of the way yourself.</t> -->
+ <!-- <t id="6005">Good, you've arrived.</t> -->
+ <!-- <t id="6006">You may notice that it sometimes turns travel mode off when everything seems wide open to you. The safeties are on a bit of a hair trigger, probably to keep insurance rates from skyrocketing...</t> -->
  <t id="7000">(Targeting and speed matching)</t>
  <t id="7001">There's a ship next to you. Its colour on your HUD indicates that it's not hostile.</t>
  <t id="7002">Please select it as your target.</t>
@@ -15146,15 +15146,15 @@
  <t id="15000">(Conclusion)</t>
  <t id="15001">And that concludes your training! Feel free to roam around and practice some of what you've learned. I've set up a selection of ships for you to try out. You can teleport between them using the map. Sorry, no capital ships! You'll have to save up for your own...</t>
  <t id="15002">When you feel ready to move on, you can either try out some of the advanced tutorials or put your skills to the test in the real world. Good bye, and good luck out there!</t>
- <t id="16000">(Logbook)</t>
- <t id="16001">While we wait, let's check out your logbook.</t>
- <t id="16002">There are several menus you can access this way. Open the one that's highlighted now.</t>
- <t id="16003">Here you have access to details about your current status and statistics. The logbook is highlighted; open it now.</t>
- <t id="16004">As you can see, there are several categories. You can select one to filter the entries, or look at all of them at once.</t>
- <t id="16005">Most of the tips you've seen up until now have been added to the logbook. You can always go back and re-read them if you feel like you've missed or forgotten something.</t>
- <t id="16006">Take your time looking around these menus. Close them when you're ready to move on.</t>
- <t id="99900">(* Gamestart Narration *)</t>
- <t id="99901">(Spoken like a radio ad, can sound a little stilted or awkward on purpose. Everything after the first "guaranteed" should be spoken as quickly as possible.)Tired of waiting for shuttles? Want to fly wherever you want, whenever you want? Then what you need is a pilot's licence! And what's the best place to get one? That's right: Jace Winger's flight school! I do theory. I do practice. And I'm licenced for weapons training. With my tried and tested training course you'll be an ace pilot in no time, guaranteed! Success not guaranteed. No liability in case of explosion, blunt trauma, exsanguination, asphyxiation or rapid decompression.</t>
+ <!-- <t id="16000">(Logbook)</t> -->
+ <!-- <t id="16001">While we wait, let's check out your logbook.</t> -->
+ <!-- <t id="16002">There are several menus you can access this way. Open the one that's highlighted now.</t> -->
+ <!-- <t id="16003">Here you have access to details about your current status and statistics. The logbook is highlighted; open it now.</t> -->
+ <!-- <t id="16004">As you can see, there are several categories. You can select one to filter the entries, or look at all of them at once.</t> -->
+ <!-- <t id="16005">Most of the tips you've seen up until now have been added to the logbook. You can always go back and re-read them if you feel like you've missed or forgotten something.</t> -->
+ <!-- <t id="16006">Take your time looking around these menus. Close them when you're ready to move on.</t> -->
+ <!-- <t id="99900">(* Gamestart Narration *)</t> -->
+ <!-- <t id="99901">(Spoken like a radio ad, can sound a little stilted or awkward on purpose. Everything after the first "guaranteed" should be spoken as quickly as possible.)Tired of waiting for shuttles? Want to fly wherever you want, whenever you want? Then what you need is a pilot's licence! And what's the best place to get one? That's right: Jace Winger's flight school! I do theory. I do practice. And I'm licenced for weapons training. With my tried and tested training course you'll be an ace pilot in no time, guaranteed! Success not guaranteed. No liability in case of explosion, blunt trauma, exsanguination, asphyxiation or rapid decompression.</t> -->
 </page>
 
 <page id="10201" title="Boron NPC 1 / Boron rep / Misc Plot Characters" descr="Lines for Boron NPC 1 and Miscellaneous story characters using that voice" voice="yes">
@@ -35093,9 +35093,9 @@
  <t id="12002">A vacuum-sealed container that required a six-digit code both to open and shut. These containers do not have the same integrity as a ship container, but as long as they are not tampered with, will securely hold whatever is placed inside for a considerable time.</t>
  <t id="12101">Magnet</t>
  <t id="12102">A magnet will quickly and securely fasten to any magnetic compound, which includes many metals and semi-metals. On trying to unfasten the magnet, some amount of resistance will be met.</t>
- <t id="12201">Spacesuit Bomb</t>
+ <!-- <t id="12201">Spacesuit Bomb</t> -->
  <t id="12202">Small enough to be launched from a hand-held weapon or similar, these explosives will stick to any magnetic surface and await to be triggered by the user. If positioned correctly, they can be used to destroy small parts of station and ship hull plating, but the user must be quite close for this to work, otherwise the bomb is likely to float away from its target before its magnet takes hold. Warning: Explosives can kill.</t>
- <t id="12301">Spacesuit EMP</t>
+ <!-- <t id="12301">Spacesuit EMP</t> -->
  <t id="12302">A device that when triggered will cause a small electro-magnetic explosion without doing noticeable structural damage, this EMP is small enough to be fired from a hand-held weapon. It requires a precise aim to be most affective, as the pulse will only cripple very nearby computer and electronic systems. </t>
  <t id="12401">Remote Detonator</t>
  <t id="12402">A remote detonator can be attached to most explosives in order to ensure that they only go off when the user wishes, minimising the risk of accidental or pre-emptive detonations.</t>
