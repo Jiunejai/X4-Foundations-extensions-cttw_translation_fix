@@ -58,6 +58,9 @@ Resource Probe		(資源探測器){1001,1329}
 Satellite			(人造衛星){1001,1327
 Nav Beacon			(導航信標){1001,1328}
 Laser Tower			(雷射塔){1001,1333}
+Bomb				(炸彈){1001,1330}
+Spacesuit Bomb		(宇航服高爆炸彈){20201,12201}
+Spacesuit EMP		(宇航服電磁脈衝炸彈){20201,12301}
 Cluster Mine		(集束空雷){20201,21001}
 Tracker Mine		(追蹤空雷){20201,20101}
 Friend/Foe Mine		(敵友識別空雷){20201,20901}
