@@ -3,14 +3,19 @@
 Cline Rodrigo	(克萊恩．羅德裡戈){30202,104}
 Cynth Wilems	(辛斯．威勒姆斯){30202,106}
 Dal Busta		(達爾．布斯塔){30202,2}
-Kat Lanton		(凱特．蘭頓){30202,105}
-Lowgon Jams		(勞貢．詹姆斯){30202,103}
-Reen Omara		(瑞恩．奧馬拉){30202,101}
-
 Drasios Fugenis Tesmandis V
 	(德拉西奧斯 福吉尼斯．特思曼迪斯五世){30202,107}
+Gride Orrian	(格里德．奧瑞安){30220,101}
+Kat Lanton		(凱特．蘭頓){30202,105}
+Kromancketslat	(克羅曼格茨拉特){30220,102}
+Lowgon Jams		(勞貢．詹姆斯){30202,103}
 Mustris Gisnos Yolious II
 	(穆斯特裡斯．吉斯莫斯．尤里奧斯二世){30202,102}
+Reen Omara		(瑞恩．奧馬拉){30202,101}
+Rikmanckassor	(瑞克曼卡瑟){30220,103}
+Xatenmanckett	(查坦曼科特){30220,104}
+
+格瑞德．奧瑞安
 
 種族：
 (Argon){20202,101}
@@ -64,3 +69,6 @@ Spacesuit EMP		(宇航服電磁脈衝炸彈){20201,12301}
 Cluster Mine		(集束空雷){20201,21001}
 Tracker Mine		(追蹤空雷){20201,20101}
 Friend/Foe Mine		(敵友識別空雷){20201,20901}
+
+其它
+Order queue			(命令佇列){30194,21}
