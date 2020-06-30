@@ -70,5 +70,30 @@ Cluster Mine		(集束空雷){20201,21001}
 Tracker Mine		(追蹤空雷){20201,20101}
 Friend/Foe Mine		(敵友識別空雷){20201,20901}
 
+船艦類型
+Auxiliary			(補給艦){20221,5011}
+Battleship			(戰列艦){20221,5031}
+Bomber				(轟炸機){20221,3001}
+Builder				(建築艦){20221,5021}
+Carrier				(宇航母艦){20221,5001}
+Corvette			(小型護衛艦){20221,3021}
+Courier				(快遞機){20221,2041}
+Destroyer			(驅逐艦){20221,4001}
+Distress Drone		(求援無人機){20221,1051}
+Drone				(無人機){20221,1021}
+Escape Pod			(逃生艙){20221,1031}
+Fighter				(戰鬥機){20221,2011}
+Freighter			(貨艦){20221,4011}
+Frigate				(巡防艦){20221,3011}
+Gunboat				(炮艦){20221,5041}
+Heavy Fighter		(重型戰鬥機){20221,2021}
+Interceptor			(攔截機){20221,2031}
+Miner				(資源採集艦){20221,3041}
+Police Vehicle		(警用船艦){20221,1011}
+Scavenger			(劫掠艦){20221,3061}
+Scout				(偵察機){20221,2001}
+Transporter			(運輸艦){20221,3031}
+
 其它
 Order queue			(命令佇列){30194,21}
+Venture				遠征
